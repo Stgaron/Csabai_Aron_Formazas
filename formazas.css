@@ -1,0 +1,21 @@
+body {
+	color:#006622;
+	background-color:beige;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	color:#200191
+}
+h1 {
+	font-family: "Rockwell";
+	font-size:30px;
+	color:green
+}
+h2 { 
+	color:#111123;
+	font-family: "Verdana", helvetics,sans-serif;
+font-weight: bold;
+}
+p {
+	color:orange
+  
+}
